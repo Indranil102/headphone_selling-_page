@@ -1,8 +1,8 @@
 # HEADPHONE SELLING UI-UX PAGE 
 I created a page with the help of Figma 
-and it also has prototype 
+and it also has a prototype 
 
-You can access the file by link 
+You can access / fully preview the file by link 
 https://www.figma.com/file/qP2YRIerQCQO6AhMElUCoo/headphonehomepage?type=design&node-id=0%3A1&mode=design&t=E1hpgOSsrpE2YcN5-1
 
 The preview of the page 
